@@ -3,6 +3,6 @@
 		<title>PHP Test</title>
 	</head>
 	<body>
-	<?php echo "Hello World, from Container. Modified in Github."; ?>
+	<?php echo "Hello World, from Container. Really modified in GitHub."; ?>
 	</body>
 </html>
